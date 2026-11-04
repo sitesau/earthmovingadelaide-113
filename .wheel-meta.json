@@ -1,0 +1,22 @@
+{
+  "wheel_id": 735,
+  "structure": "umbrella",
+  "slug": "earthmovingadelaide-113",
+  "project": "earthmoving-services-adelaide-what-to-expect-e8b5adfbf7cad900ca",
+  "parent_t1_ref": "earthmovingadelaide-156",
+  "node_role": "feeder",
+  "money_target": "earthmovingadelaide.com.au",
+  "primary_kw": "earthmoving services adelaide what to expect",
+  "intended_url": "https://aumedia.neocities.org/earthmoving-services-adelaide-what-to-expect-e8b5adfbf7cad900ca/",
+  "tier": "T2",
+  "writeback_nonce": "23c76c98576086d4",
+  "links": [
+    {
+      "target_url": "http://earthmoving-services-adelaide-pros-and-cons-d3ff895ab4beb6f64c8.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Earthmoving Services Adelaide Pros and Cons: Pros and Cons",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
